@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed Farouk (he/him)</h1>
 <h3 align="center">A passionate fullstack developer from Brooklyn</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmohamedfarouk&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmohamedfarouk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefmohamedfarouk" alt="youssefmohamedfarouk" /></a> </p>
+
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, Express, SQL, React, Redux**
+
+- 👯 I’m looking to collaborate on **a mobile mental health app**
+
+- 💬 Ask me about **JavaScript, Node.js, Clinical Psych**
 
 - 📫 How to reach me **youssefmohamedfarouk@pursuit.org**
 
